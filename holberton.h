@@ -27,11 +27,11 @@ typedef struct buffer
 } buffer;
 /**
  *struct handlers - handlers struct
- *@plus:'+' flag
- *@space:' ' flag
- *@hash:'#' flag
- *@zero:'0' flag
- *@minus:'-' handler
+ *@plus:'+' flag.
+ *@space:' ' flag.
+ *@hash:'#' flag.
+ *@zero:'0' flag.
+ *@minus:'-' handler.
  *@width:width handler
  *@precision:precision handler
  *@h_mod:h modifier handler
