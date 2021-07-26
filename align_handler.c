@@ -1,9 +1,9 @@
 #include "holberton.h"
 #include <strings.h>
 /**
- *put_string - prints a string
- *@str:string to print
- *Return:no. of characters printed
+ *put_string - prints a string.
+ *@str:string to print.
+ *Return:no. of characters printed.`
  */
 int put_string(char *str)
 {
