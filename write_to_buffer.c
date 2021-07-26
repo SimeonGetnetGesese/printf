@@ -16,8 +16,8 @@ void _write(buffer *b_r, char c)
 }
 /**
  *_write_str - Add string to buffer, write and reset buffer if full.
- *@b_r: buffer to write
- *@s: string to write
+ *@b_r: buffer to write.
+ *@s: string to write.
  */
 void _write_str(buffer *b_r, char *s)
 {
@@ -34,7 +34,7 @@ void _write_str(buffer *b_r, char *s)
 }
 /**
  * _write_tmpbuf - Add tmpbuf to buffer, write and reset buffer if full.
- * @b_r: buffer to write
+ * @b_r: buffer to write.
  */
 void _write_tmpbuf(buffer *b_r)
 {
