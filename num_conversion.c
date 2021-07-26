@@ -170,10 +170,10 @@ int print_hex(va_list list)
 
 }
 /**
- *print_S - handles custom conversion S which for instance
- *         -prints '\n' as \x and hex equivalent of n
- *@list:list to increment
- *Return:no. of characters printed
+ *print_S - handles custom conversion S which for instance.
+ *         -prints '\n' as \x and hex equivalent of n.
+ *@list:list to increment.
+ *Return:no. of characters printed.
  */
 
 int print_S(va_list list)
