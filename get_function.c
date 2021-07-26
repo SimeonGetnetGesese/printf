@@ -1,9 +1,9 @@
 #include "holberton.h"
 
 /**
- *get_func - selects the right function corresponding to format specified
- *@ch:input format
- *Return:pointer to function that corresponds with specified format
+ *get_func - selects the right function corresponding to format specified.
+ *@ch:input format.
+ *Return:pointer to function that corresponds with specified format.
  *
  */
 int (*get_func(char ch))(va_list)

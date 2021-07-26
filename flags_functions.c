@@ -1,8 +1,8 @@
 #include "holberton.h"
 
 /**
- * flag_plus - uses to add +.
- *
+ *flag_plus - uses to add +.
+ *@list: va_list from _printf.
  *flag_space - uses to add empty space.
  */
 int flag_plus(va_list list)
@@ -17,4 +17,4 @@ int flag_plus(va_list list)
 }
 int flag_space(va_list list)
 {
-if 
+if
