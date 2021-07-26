@@ -1,8 +1,8 @@
 #include "holberton.h"
 /**
- *print_r - prints a string in reverse
- *@list:list to increment
- *Return:no. of charcters printed
+ *print_r - prints a string in reverse.
+ *@list:list to increment.
+ *Return:no. of charcters printed.
  */
 int print_r(va_list list)
 {
